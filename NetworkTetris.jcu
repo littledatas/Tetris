@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>NetworkTetris</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>NetworkTetris</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>NetworkTetris</path>
+			</folderitem>
+			<fileitem>
+				<path>ClientNetworkTetris.java</path>
+				<collapsedfolds>639;506;450;430;397;324;261;247;236;225;213;199;177;95</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>HoldingGrid.java</path>
+				<collapsedfolds>191;180;170;159;149;139;130;120;110;100;90;80;70;60;50;34;25;20</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>HostNetworkTetris.java</path>
+				<collapsedfolds>665;628;495;439;433;419;386;313;302;293;250;238;225;211;200;189;169;92</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>Tetris.java</path>
+				<collapsedfolds>0;0;0;0;0;0;0;532;399;343;337;323;290;217</collapsedfolds>
+			</fileitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Tetris.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

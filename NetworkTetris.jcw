@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>NetworkTetris</label>
+	</settings>
+	<users>
+		<user>
+			<path>NetworkTetris.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>NetworkTetris.jcp</path>
+		</project>
+	</projects>
+</workspace>
